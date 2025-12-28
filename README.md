@@ -7,6 +7,12 @@ Welcome to the official repository for **Data With Baraa’s Tableau Ultimate Co
 
 ---
 
+## Tableau Architecture
+![Credit_Card_dashboard analysis](Tableau_arichitecture.png)
+
+
+---
+
 
 ## 📚 Table of Contents
 
